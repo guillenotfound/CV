@@ -1,7 +1,7 @@
 export enum socialItems {
+  linkedIn = 'linkedIn',
   github = 'github',
   inbox = 'inbox',
-  linkedIn = 'linkedIn',
   telegram = 'telegram',
   twitter = 'twitter',
 }
